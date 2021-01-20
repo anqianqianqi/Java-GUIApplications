@@ -1,10 +1,10 @@
+//@Author: Anqi Luo
 package hw1;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-//AndrewID: anqiluo
 public class PersonalTrainer {
 	
 	static final String EXERCISE_DATA_FILE = "data/MasterExercises1.csv";
