@@ -1,5 +1,4 @@
-//AndrewID: anqiluo
-//Name: Anqi Luo
+//@Author: Anqi Luo
 package hw2;
 
 import javafx.collections.FXCollections;
