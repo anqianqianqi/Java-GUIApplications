@@ -1,6 +1,6 @@
+//@Author: Anqi Luo
 package hw1;
 
-//AndrewID: anqiluo
 public class Workout {
 	int timeSpent, caloriesBurned; //as computed by the buildWorkoutPlan() method
 
